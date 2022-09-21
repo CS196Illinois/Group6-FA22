@@ -35,13 +35,13 @@ Sprint 6:
 
 Sprint 7: 
 - 11/8 - 11/15
-- TASKS: Training CoCa
-- TOPICS: Where are initial models performing well? Where are they performing poorly? How can we improve? Can we improve training speed (Mixed Prec., DistributedTraining, etc)?
+- TASKS: Training CoCa/Special Topics
+- TOPICS: Where are initial models performing well? Where are they performing poorly? How can we improve? Can we improve training speed (Mixed Prec., DistributedTraining, etc)? Or whatever else you want to work on.
 
 Sprint 8:
 - 11/15 - 11/18 (fall break) 11/26 - 11/29 
-- TASKS: Training CoCa
-- TOPICS: Finalize Architectural Choices. Reserve HAL. Train for a long time. 
+- TASKS: Training CoCa/Special Topics
+- TOPICS: Finalize Architectural Choices. Reserve HAL. Train for a long time.  Or whatever else you want to work on.
 
 Sprint 9:
 - 11/29- 12/6
